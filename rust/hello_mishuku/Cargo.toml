@@ -1,0 +1,5 @@
+[package]
+
+name = "hello_mishuku"
+version = "0.0.1"
+authors = [ "kiwamunet@gmail.com" ]
